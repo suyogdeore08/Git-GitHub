@@ -1,0 +1,5 @@
+Hello, my name is Suyog
+I am currently pursuing B.Tech Computer Engineering degree.
+I like to play chess, Badminton and whatnot.
+Git is a version control system. It helps us to collaborate with our team.
+It is necessary for a Dev to understand the flow of git.
